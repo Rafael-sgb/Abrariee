@@ -1,0 +1,8 @@
+1. Percobaan 1	
+-semakin tinggi frekuensi sampling (pencacahan), maka sinyal hasil sampling tersebut akan terlihat lebih jelas dan semakin menyerupai sinyal analog asli (kontinyu). sebaliknya, apabila semakin kecil frekuensi sampling, maka sinyal hasil keluaran juga akan terlihat kurang jelas (tidak kontinyu).
+2. Percobaan 2	
+-L(panjang gelombang) = sinyal diskrit yang dibangkitkan
+-P(panjang deret) = sinyal diskrit yang bernilai 0.
+-sehingga, apabila nilai L yang diberikan lebih besar dibandingkan dengan nilai P, maka jumlah sinyal diskrit hasil keluaran juga lebih banyak. begitu sebaliknya apabila nilai L < nilai P, maka sinyal diskrit yang dibangkitkan lebih sedikit.
+3. Percobaan 3	
+-pada percobaan ke 3 yaitu dengan memasukkan nilai L=panjang gelombang dan sinyal diskrit yang dibangkitkan, P=posisi impuls yang merupakan titik pada amplitudo yang dibangkitkan sesuai dengan besar amplitudo pada program if (n==P) "enter" step(n)=1; 
